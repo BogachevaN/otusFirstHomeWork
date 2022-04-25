@@ -1,0 +1,3 @@
+driver\DriverFactory.class
+configuration\Environment.class
+configuration\PropertyManager.class

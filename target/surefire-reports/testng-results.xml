@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-23T21:45:08 MSK" name="Surefire suite" finished-at="2022-04-23T21:45:25 MSK" duration-ms="17783">
+    <groups>
+    </groups>
+    <test started-at="2022-04-23T21:45:08 MSK" name="Surefire test" finished-at="2022-04-23T21:45:25 MSK" duration-ms="17783">
+      <class name="FindCoursesTests">
+        <test-method is-config="true" signature="setupWebDriverManager()[pri:0, instance:FindCoursesTests@7ee8290b]" started-at="2022-04-23T21:45:08 MSK" name="setupWebDriverManager" finished-at="2022-04-23T21:45:18 MSK" duration-ms="10192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupWebDriverManager -->
+        <test-method signature="filterCourseByName()[pri:0, instance:FindCoursesTests@7ee8290b]" started-at="2022-04-23T21:45:18 MSK" name="filterCourseByName" finished-at="2022-04-23T21:45:24 MSK" duration-ms="6072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterCourseByName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FindCoursesTests@7ee8290b]" started-at="2022-04-23T21:45:24 MSK" name="tearDown" finished-at="2022-04-23T21:45:25 MSK" duration-ms="1440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- FindCoursesTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
